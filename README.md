@@ -10,6 +10,8 @@ https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-ii
 Evaluation Metric is accuracy i.e. percentage of loan approval we can correctly predict.
 
 I have built 2 models,
+
+
 1. initial model with minimal data manipulation and no new variables created.
   Following this, I did some data munging and exploratory analysis to understand variable importance and create new variables.
   
