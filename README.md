@@ -12,5 +12,7 @@ Evaluation Metric is accuracy i.e. percentage of loan approval we can correctly 
 I have built 2 models,
 1. initial model with minimal data manipulation and no new variables created.
   Following this, I did some data munging and exploratory analysis to understand variable importance and create new variables.
+  
+  
 2. The final model which ranked me at 16th position on the leaderboard with accuracy of 0.805.
   I have used gradient boosting with ensemble learning to optimize the model.
